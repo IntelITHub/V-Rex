@@ -1,0 +1,114 @@
+/* COMMON*/
+"LOADING_PLASE_WAIT"="Carregamento\nEspere por favor...";
+"LABEL_SOMETHING_WRONG"="Sem conexão de Internet";
+"MSG_ALERT"="ATENÇÃO";
+"MSG_VIDEOBLOG"="V-Rex";
+"MSG_ENTER_NAME"="Digite seu nome";
+"MSG_ENTER_USERNAME"="Introduza o nome do Usuário";
+"MSG_ENTER_EMAIL_ID"="Digite o e-mail";
+"MSG_ENTER_VALID_EMAIL_ID"="Por favor, informe um Email válido";
+"MSG_ENTER_PASSWORD"="Por favor, digite a sua senha";
+"MSG_ENTER_CONFIRM_PASSWORD"="Por favor, confirme sua senha";
+"MSG_ENTER_PASSWORD_NOT_MATCHED"="Senha não corresponde";
+"MSG_DEVICE_HAS_NO_CAMERA"="Dispositivo não tem câmera";
+"MSG_ENTER_HEADLINE"="Por favor, indique Headine de seu post.";
+"MSG_ENTER_DESCRIPTION"="Por favor, indique Descrição do cargo";
+"MSG_SELECT_CATEGORY"="Selecione a categoria";
+"MSG_ENTER_VALID_PASSWORD"="A senha deve ter pelo menos 6 caracteres comprimento e combinação de caracteres e números.";
+
+/*LOGIN PAGE*/
+"LBL_EMAIL_OR_USERNAME"="E-mail ou nome de usuário";
+"SELECT_LANG_POP_HEADER"="Seleção de Idioma";
+"SELECT_LANG_POP_DESC"="Qual idioma você gostaria de usar ?";
+"SELECT_LANG_POP_ENG_BTN"="Inglês";
+"SELECT_LANG_POP_POR_BTN"="Português";
+
+"FORGOT_PASSWORD_BUTTON"="Esqueceu a senha?";
+"LOGIN_BUTTON"="Login";
+"REGISTER_NOW_BUTTON"="Cadastre-se";
+
+"LABEL_LOGIN"="Login";
+"LABEL_REMEMBER_ME"="Lembre-me";
+"LABEL_OR_LOGIN_WITH"="Ou Entrar com";
+
+/* REGISTER PAGE*/
+"LBL_YOUR_NAME"="Seu Nome";
+"LBL_USERNAME"="Nome de Usuário";
+"LBL_EMAIL"="Email";
+"LBL_PASSWORD"="Senha";
+"LBL_REPEAT_PASSWORD"="Repetir Senha";
+
+"LBL_REGISTER"="Register";
+"LBL_OR_SIGNUP_USING"="Ou inscrever-se UTILIZAÇÃO";
+"LBL_TERMS_HEADER"="Termo e Condição";
+"LBL_TERMS_TITLE"="Título";
+"LBL_ACCEPT"="Aceitar";
+"LBL_DO_NOT_ACCEPT"="Não Aceite";
+"LBL_GEO_HEADER"="Geolocalização";
+"LBL_TAKE_A_PICTURE"="Tire uma foto";
+"LBL_SIGNUP"="Inscrever-se";
+"LBL_TERMS_TEXT"="Lorem ipsum dolor sit er elit Lamet, consectetaur Cillium adipisicing pecu, sed não eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis Aute Irure dolor em reprehenderit em voluptate velit ESSE cillum dolore eu fugiat nulla pariatur. Excepteur sint n legum civiuda odioque.";
+"LBL_GEO_DESC"="\"App\" gostaria de usar sua localização atual";
+
+"LBL_CATEGORY"="CATEGORIA";
+"LBL_NEXT"="Próximo";
+"LBL_PREV"="Anterior";
+"LBL_FOLLOWING"="Seguinte ";
+"LBL_ME"="Me";
+
+"LBL_TITLE"="Título";
+"LBL_CITY"="Cidade";
+"LBL_COUNTRY"="País";
+"LBL_STATE"="Estado";
+"LBL_ADD_TO_MAP"="Adicionar ao Mapa";
+"LBL_SHARE_ON_TW"="Compartilhar no Twitter";
+"LBL_SHARE_ON_FB"="Compartilhar no Facebook";
+"LBL_SHARE"="Ação";
+
+"LBL_NAME"="Nome";
+"LBL_DESCRIPTION"="Descrição";
+"LBL_PASSWORD"="Senha";
+"LBL_PHONE"="Telefone";
+"LBL_WEBSITE"="Site";
+"LBL_USER_INFO"="Informações do usuário";
+"LBL_PRIVATE_INFO"="Informações privados";
+"LBL_GENERAL_SETTING"="Configuração Geral";
+"LBL_LOGOUT"="Sair";
+"LBL_SAVE"="Salvar";
+"LBL_SEND"="Enviar";
+"LBL_COMMENTS"="Comentários";
+
+"LBL_POSTS"="Posts";
+"LBL_EDIT_PROFILE"="Editar Perfil";
+"LBL_FOLLOW"="Seguir";
+"LBL_FOLLOWERS"="Seguidores";
+"LBL_FOLLOWING"="Seguinte";
+"LBL_CHANGE_COVER_IMAGE"="Mudança Cover Image";
+
+"LBL_PHOTOS_VIDEOS"="Fotos e Vídeos";
+"LBL_PHOTOS"="Fotos";
+"LBL_VIDEOS"="Vídeos";
+
+"LBL_LIKE"="Como";
+"LBL_LIKED"="Gostei";
+"LBL_COMMENT"="Comentário";
+
+"LBL_SET_CAMERA"="Entre em modo Câmara quando começou aplicativo";
+"LBL_LANGUAGE"="Língua";
+"LBL_SAVE_SETTING"="Salvar Ajuste";
+"LBL_SETTING"="Cenário";
+"LBL_WHO_WHEN_WHERE"="Quem?\nQuando?\nOnde ?\n";
+
+"LBL_SEARCH_TEXT_WITH_HASH"="Procurar nome de usuário ou hashtag";
+"LBL_SEARCH"="Pesquisa";
+
+"MSG_SURE_TO_DELETE_COMMENT"="Tem certeza de que quer apagar este comentário?";
+"LBL_CONFIRM"="Confirmar";
+"LBL_YES"="Sim";
+"LBL_NO"="Não";
+
+"LBL_LATEST"="Latest";
+"LBL_MY_LOCATION"="Os Meus Locais";
+
+"MSG_SURE_TO_DELETE_POST" = "Tem certeza que deseja excluir este post?";
+"MSG_CAN_NOT_DELETE_POST"="Você não tem permissão para excluir este post.";

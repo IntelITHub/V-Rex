@@ -1,0 +1,116 @@
+/* COMMON*/
+"LOADING_PLASE_WAIT"="Loading\nPlease Wait...";
+"LABEL_SOMETHING_WRONG"="No Internet connection!";
+"MSG_ALERT"="Alert";
+"MSG_VIDEOBLOG"="V-Rex";
+"MSG_ENTER_NAME"="Please enter your Name";
+"MSG_ENTER_USERNAME"="Please enter your Username";
+"MSG_ENTER_EMAIL_ID"="Please enter your Email Address";
+"MSG_ENTER_VALID_EMAIL_ID"="Please enter valid Email Address";
+"MSG_ENTER_PASSWORD"="Please enter your password";
+"MSG_ENTER_CONFIRM_PASSWORD"="Please confirm your password";
+"MSG_ENTER_PASSWORD_NOT_MATCHED"="Password does not match";
+"MSG_DEVICE_HAS_NO_CAMERA"="Device has no camera";
+"MSG_ENTER_HEADLINE"="Please enter Headine of your post.";
+"MSG_ENTER_DESCRIPTION"="Please enter Description of the post";
+"MSG_SELECT_CATEGORY"="Please select Category";
+"MSG_ENTER_VALID_PASSWORD"="Password should be at least 6 Character length and combination of Characters and numbers.";
+
+/*LOGIN PAGE*/
+"LBL_EMAIL_OR_USERNAME"="Email Or UserName";
+"SELECT_LANG_POP_HEADER"="Language Selection";
+"SELECT_LANG_POP_DESC"="Please, select language for application:";
+"SELECT_LANG_POP_ENG_BTN"="English";
+"SELECT_LANG_POP_POR_BTN"="Portuguese";
+
+"FORGOT_PASSWORD_BUTTON"="Forgot Password?";
+"LOGIN_BUTTON"="Login";
+"REGISTER_NOW_BUTTON"="Register Now";
+
+"LABEL_LOGIN"="Login";
+"LABEL_REMEMBER_ME"="Remember me";
+"LABEL_OR_LOGIN_WITH"="OR LOGIN WITH";
+
+/* REGISTER PAGE*/
+"LBL_YOUR_NAME"="Your Name";
+"LBL_USERNAME"="Username";
+"LBL_EMAIL"="Email";
+"LBL_PASSWORD"="Password";
+"LBL_REPEAT_PASSWORD"="Repeat Password";
+
+"LBL_REGISTER"="Register";
+"LBL_OR_SIGNUP_USING"="OR SIGN UP USING";
+"LBL_TERMS_HEADER"="Term and Condition";
+"LBL_TERMS_TITLE"="Title";
+"LBL_ACCEPT"="Accept";
+"LBL_DO_NOT_ACCEPT"="Don't Accept";
+"LBL_GEO_HEADER"="Geolocalization";
+"LBL_TAKE_A_PICTURE"="Take a picture";
+"LBL_SIGNUP"="Sign up";
+"LBL_TERMS_TEXT"="Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint n legum odioque civiuda.";
+"LBL_GEO_DESC"="\"App\" would like to use your current location";
+
+"LBL_CATEGORY"="CATEGORY";
+"LBL_NEXT"="Next";
+"LBL_PREV"="Previous";
+"LBL_FOLLOWING"="Following";
+"LBL_ME"="Me";
+
+"LBL_TITLE"="Title";
+"LBL_CITY"="City";
+"LBL_COUNTRY"="Country";
+"LBL_STATE"="State";
+"LBL_ADD_TO_MAP"="Add to Map";
+"LBL_SHARE_ON_TW"="Share on Twitter";
+"LBL_SHARE_ON_FB"="Share on Facebook";
+"LBL_SHARE"="Share";
+
+"LBL_NAME"="Name";
+"LBL_DESCRIPTION"="Description";
+"LBL_PASSWORD"="Password";
+"LBL_PHONE"="Phone";
+"LBL_WEBSITE"="Website";
+"LBL_USER_INFO"="User Informations";
+"LBL_PRIVATE_INFO"="Private Informations";
+"LBL_GENERAL_SETTING"="General Setting";
+"LBL_LOGOUT"="Logout";
+"LBL_SAVE"="Save";
+"LBL_SEND"="Send";
+"LBL_COMMENTS"="Comments";
+
+"LBL_POSTS"="Posts";
+"LBL_EDIT_PROFILE"="Edit Profile";
+"LBL_FOLLOW"="Follow";
+"LBL_FOLLOWERS"="Followers";
+"LBL_FOLLOWING"="Following";
+"LBL_CHANGE_COVER_IMAGE"="Change Cover";
+
+
+"LBL_PHOTOS_VIDEOS"="Photos & Videos";
+"LBL_PHOTOS"="Photos";
+"LBL_VIDEOS"="Videos";
+
+"LBL_LIKE"="Like";
+"LBL_LIKED"="Liked";
+"LBL_COMMENT"="Comment";
+
+"LBL_SET_CAMERA"="Enter on Camera mode when started application";
+"LBL_LANGUAGE"="Language";
+"LBL_SAVE_SETTING"="Save Setting";
+"LBL_SETTING"="Setting";
+
+"LBL_WHO_WHEN_WHERE"="Who ?\nWhen ?\nWhere \n";
+
+"LBL_SEARCH_TEXT_WITH_HASH"="Search username or hashtag";
+"LBL_SEARCH"="Search";
+
+"MSG_SURE_TO_DELETE_COMMENT"="Are you sure you want to delete this Comment ?";
+"LBL_CONFIRM"="Confirm";
+"LBL_YES"="Yes";
+"LBL_NO"="No";
+
+"LBL_LATEST"="Latest";
+"LBL_MY_LOCATION"="My Locations";
+
+"MSG_SURE_TO_DELETE_POST" = "Are you sure to delete this post ?";
+"MSG_CAN_NOT_DELETE_POST"="You have no permission to delete this post.";

@@ -1,0 +1,21 @@
+//
+// Prefix header for all source files of the 'MobiNesw' target in the 'MobiNesw' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "AppDelegate.h"
+    AppDelegate *objAppDel;
+    #import "SDWebImageLazyLoad.h"
+    #import "UIImageView+WebCache.h"
+    #import "Reachability.h"
+    #import "DejalActivityView.h"
+
+#endif
