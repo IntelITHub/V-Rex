@@ -127,6 +127,8 @@ NSInteger currentFieldEdit = 0;
 	
 	[self.lbl_logout setTitle:[TSLanguageManager localizedString:@"LBL_LOGOUT"] forState:UIControlStateNormal];
 	[self.lbl_Save setTitle:[TSLanguageManager localizedString:@"LBL_SAVE"] forState:UIControlStateNormal];
+    NSLog(@"%ld",(long)currentFieldEdit);
+    
     
     //changes
 }

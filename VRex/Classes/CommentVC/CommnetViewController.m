@@ -1,6 +1,5 @@
 //
 //  CommnetViewController.m
-//  MobiNesw
 //
 //  Created by Snehasis Mohapatra on 2/4/14.
 //  Copyright (c) 2014 Snehasis Mohapatra. All rights reserved.
@@ -12,11 +11,9 @@
 #import "AppDelegate.h"
 #import "TSLanguageManager.h"
 #import "constant.h"
-
 @interface CommnetViewController ()
 
 @end
-//initialise variables
 static int deleteclick=0;
 static int NowiCommentId=0;
 static int NowPostId=0;
