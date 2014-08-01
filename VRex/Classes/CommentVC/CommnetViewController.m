@@ -42,6 +42,7 @@ static int NowPostId=0;
 	
     [self getCommentlist];
     
+    
     //---- -- initialize back tab------
     self.backImg.userInteractionEnabled = YES;
 	UITapGestureRecognizer *tab_back =[[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(backFromCommentlist:)];
