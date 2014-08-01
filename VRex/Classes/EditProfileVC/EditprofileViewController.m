@@ -120,8 +120,6 @@ NSInteger currentFieldEdit = 0;
 	self.E_phone.attributedPlaceholder = [[NSAttributedString alloc] initWithString:[TSLanguageManager localizedString:@"LBL_PHONE"]];
 	self.E_username.attributedPlaceholder = [[NSAttributedString alloc] initWithString:[TSLanguageManager localizedString:@"LBL_USERNAME"]];
 	self.E_userwebsite.attributedPlaceholder = [[NSAttributedString alloc] initWithString:[TSLanguageManager localizedString:@"LBL_WEBSITE"]];
-    
-	
 	self.lbl_user_info.text =[TSLanguageManager localizedString:@"LBL_USER_INFO"];
 	self.lbl_user_private_info.text =[TSLanguageManager localizedString:@"LBL_PRIVATE_INFO"];
 	
@@ -129,6 +127,8 @@ NSInteger currentFieldEdit = 0;
 	
 	[self.lbl_logout setTitle:[TSLanguageManager localizedString:@"LBL_LOGOUT"] forState:UIControlStateNormal];
 	[self.lbl_Save setTitle:[TSLanguageManager localizedString:@"LBL_SAVE"] forState:UIControlStateNormal];
+    
+    //changes
 }
 - (void)nextTextField {
     if (currentFieldEdit == 0) {
